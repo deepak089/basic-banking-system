@@ -1,0 +1,100 @@
+* {
+    font-family: 'Zilla Slab', serif;
+}
+
+.intro {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.intro h1 {
+    font-size: 70px;
+}
+
+.intro h3 {
+    font-size: 45px;
+}
+
+.intro h5 {
+    font-size: 30px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 25px;
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+}
+
+.bg-overlay1 {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .8)), url("partials/img/7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-overlay2 {
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .4)), url("partials/img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-overlay3 {
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .6)), url("partials/img/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bg-overlay4 {
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .9)), url("partials/img/6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+
+.dataTables_length label,
+select {
+    color: white;
+}
+
+.dataTables_length select option {
+    color: black;
+}
+
+.dataTables_filter label {
+    color: white;
+}
+
+.dataTables_filter label input {
+    color: white;
+}
+
+.dataTables_info {
+    color: white;
+}
+
+table {
+    color: white;
+}
+
+thead {
+    color: blue !important;
+}
